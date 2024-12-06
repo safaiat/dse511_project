@@ -75,3 +75,9 @@ We perform the following EDA steps using **Matplotlib/Seaborn** (Python) or **gg
 1. Install dependencies:
    ```bash
    pip install pandas matplotlib seaborn beautifulsoup4
+
+#### R
+1. Install dependencies:
+   '''bash
+  install.packages(c("tidyverse", "rvest", "ggplot2", "ggradar", "corrplot"))
+
