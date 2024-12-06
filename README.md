@@ -78,6 +78,6 @@ We perform the following EDA steps using **Matplotlib/Seaborn** (Python) or **gg
 
 #### R
 1. Install dependencies:
-   '''bash
+   ```bash
   install.packages(c("tidyverse", "rvest", "ggplot2", "ggradar", "corrplot"))
 
